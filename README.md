@@ -14,9 +14,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 ## Bronnenlijst
-  1. -bron 1-
-  2. -bron 2-
-  3. -...-
+  1. https://developer.mozilla.org/en-US/ 
+  2. https://www.dafont.com/dunkin.font 
+  3. https://superdesigner.co/tools/css-backgrounds
+  4. https://www.youtube.com/watch?v=q7SbKbmTCzg&ab_channel=CodingArtist
+  5. Sanne (docent)
 
 
 
@@ -27,15 +29,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je storyboard:
-  <img src="readme-images/storyboard_fvd.jpeg" width="375px" alt="storyboard voor opdracht 1">
+  <img src="readme-images/storyboard-fvd.jpeg" width="375px" alt="storyboard voor opdracht 1">
 
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - animeren (ik heb bijna geen ervaring met animatie's)
+  - meer gradients gebruiken op verschillende manieren
+  - werken met ::before en/of ::after
+  - css kennis in het algemeen vergroten
  
 </details>
 
@@ -48,19 +50,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/animatie-foto1.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/animatie-foto2.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/animatie-foto3.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/animatie-foto4.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatje(s)
+  Ik ben over het algemeen best wel tevreden over mijn werk. Ik ben veel vooruit gekomen in vormgeven met CSS. Ik had nog niet echt gewerkt met CSS background patterns, dus dat vond ik wel leuk om te leren en om mee te oefenen. Ook het animatie-gedeelte ben ik tevreden mee. Ik had voor dit vak nog weinig ervaring met animeren in CSS, dus hier heb ik zeker veel over geleerd. Verder is het me gelukt een light/dark mode te maken.
 
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
+  <img src="readme-images/background-patterns.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatje(s)
+  Wat ik erg lastig vond, was het maken van de golf die omhoog gaat. Ik heb echt heel veel tijd besteed aan dingen proberen met gradients. Ook had ik veel op internet gezocht, maar die maakten zowat allemaal gebruik van svg's of een generator. Ik ben er wel tevreden mee want het ziet er niet verkeerd uit, maar uiteindelijk is het toch niet helemaal geworden wat ik wilde. 
 
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
+  <img src="readme-images/golf.png" width="375px" alt="bummer">
 </details>
 
 
